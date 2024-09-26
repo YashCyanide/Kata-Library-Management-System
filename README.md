@@ -7,7 +7,7 @@ This is a simple Library Management System implemented in Java using Test-Driven
 1. Ensure you have Java JDK 11 or higher installed.
 2. Clone this repository:
    ```
-   git clone <your-repository-url>
+   git clone https://github.com/YashCyanide/Kata-Library-Management-System.git
    ```
 3. Open the project in IntelliJ IDEA:
     - File > Open
@@ -61,21 +61,6 @@ LibraryManagementSystem/
 └── README.md
 ```
 
-## Setup and Running
-
-### Prerequisites
-- Java JDK 11 or higher
-- IntelliJ IDEA (recommended)
-
-### Steps to Run
-1. Clone the repository:
-   ```
-   git clone https://github.com/yashcyanide/LibraryManagementSystem.git
-   ```
-2. Open the project in IntelliJ IDEA
-3. To run tests:
-    - Right-click on the `test` folder in the Project view
-    - Select "Run 'All Tests'"
 
 ## Development Process
 
