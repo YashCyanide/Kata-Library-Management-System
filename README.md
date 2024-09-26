@@ -25,6 +25,10 @@ Alternatively:
 1. Click on "Run" in the top menu
 2. Select "Run 'All Tests'"
 
+## Output Screen   
+![image](https://github.com/user-attachments/assets/4a13d85c-aeb2-4b2a-8d93-08184cac07ca)
+
+
 ## Usage
 
 The Library Management System provides the following functionalities:
